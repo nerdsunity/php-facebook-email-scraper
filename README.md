@@ -11,7 +11,7 @@ With this simple script made with plain PHP you can:
 #### Learn PHP 7:
 ##### 50% OFF Udemy Coupon Code.
 
-Learn Nodejs by building 12 projects. Apply the Coupon on Udemy: http://bit.ly/udemy-coupon-nodejs.
+Learn PHP 5 & 7 This Way to Rise Above & Beyond Competition! Apply the Coupon on Udemy: http://bit.ly/udemy-coupon-php7.
 
 
 #### Disclaimer
