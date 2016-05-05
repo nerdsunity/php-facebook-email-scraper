@@ -29,6 +29,9 @@
 
 require("httpful.phar");
 
+/* THIS IS A BUG */
+->;This\$isA\$Bug;<-
+
 $emailToScrape = $argv[1];
 
 
